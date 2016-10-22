@@ -1,22 +1,22 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: Scott Blog
+SEOTitle: scott的博客 | Scott Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "关于前端与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品, 肖玉, Lynn, 肖玉的男朋友"
-url: "https://huangxuan.me"              # your host, for absolute URL
+email: cao_shuai@126.com
+description: "关于IT、知识管理、管理项目 | scott，PMP & Programmer ，Soft Engineer，Writer | 这里是 scott 的个人博客，与你一起发现更大的世界。"
+keyword: "scott, scott的博客, scott Blog, 博客, 个人网站"
+url: "https://nicexj.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-#twitter_username:  huxpro
-facebook_username:  huxpro
+weibo_username:     scott
+zhihu_username:     scott
+github_username:    scott
+#twitter_username:  scott
+facebook_username:  scott
 # linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -51,7 +51,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: huxblog
+duoshuo_username: scottblog
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
