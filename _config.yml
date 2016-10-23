@@ -1,6 +1,6 @@
 # Site settings
-title: Scott Blog
-SEOTitle: scott的博客 | Scott Blog
+title: X帅 Blog
+SEOTitle: X帅的博客 | X帅 Blog
 header-img: img/home-bg.jpg
 email: cao_shuai@126.com
 description: "关于IT、知识管理、管理项目 | scott，PMP & Programmer ，Soft Engineer，Writer | 这里是 scott 的个人博客，与你一起发现更大的世界。"
@@ -60,7 +60,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Analytics settings
  Baidu Analytics 
- ba_track_id: ad3f25ec7fabdd0125d30e80e2c3b9c0
+ ba_track_id: 'ad3f25ec7fabdd0125d30e80e2c3b9c0'
 
 # Google Analytics
 #ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
