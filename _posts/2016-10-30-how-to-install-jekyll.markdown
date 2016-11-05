@@ -7,6 +7,7 @@ header-img: "img/post-bg-jekyll.png"
 tags:
     - Jekyll
     - ruby
+catalog: true
 ---
 
 > 就记录下windows下Jekyll的安装
@@ -15,7 +16,7 @@ tags:
 
 [Ruby安装文件下载地址](http://rubyinstaller.org/downloads/)
 
-下载对应版本，我的电脑是64位的下载64位的版本；
+下载对应版本，我的电脑是64位的下载64位的版本;
 
 然后就是windows下傻瓜式的安装了，双击安装即可。
 
@@ -35,8 +36,9 @@ tags:
 - 1.cd 进入C:\devkit目录
 - 2.执行以下命令
 
-`ruby dk.rb init`
-`ruby dk.rb install` 
+`ruby dk.rb init
+
+ruby dk.rb install` 
 
 > ruby dk.rb install 居然失败了，多尝试几次，不知所以然
 
