@@ -35,21 +35,32 @@ tags:
 - 1.cd 进入C:\devkit目录
 - 2.执行以下命令
 	`ruby dk.rb init
+	
     ruby dk.rb install `
+	
     > ruby dk.rb install 居然失败了，多尝试几次，不知所以然
 
 ## 安装Jekyll
 - 使用命令
+
 `gem install jekyll`
+
  国内网络环境大多会报错，请翻墙
+ 
 - 不想翻墙的话就改下源
+
 `gem sources --add https://gems.ruby-china.org/ --remove https://rubygems.org/`
+
  以上命令如果报ssl错误。尝试使用以下命令
+ 
 `gem sources --add http://gems.ruby-china.org/ --remove https://rubygems.org/`
+
 *这两个命令的区别是http和https的去吧，孩子可是要认真一点儿啊*
+
 - 检查下
-` gem sources -l` 出现
-https://gems.ruby-china.org
+
+` gem sources -l` 
+出现https://gems.ruby-china.org
 请确保只有 gems.ruby-china.org
 
 ## that's all! done!
