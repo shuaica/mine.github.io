@@ -20,7 +20,7 @@ catalog: true
 # ppt的基本操作
 ![基本操作](http://ogm342j76.bkt.clouddn.com/image/ppt/20161115/ppt1.png)
 ![image](http://ogm342j76.bkt.clouddn.com/image/ppt/20161115/ppt2.png)
-![image](http://ogm342j76.bkt.clouddn.com/image/ppt/20161115/ppt3.png)
+![image](http://ogm342j76.bkt.clouddn.com/image/ppt/20161115/pp3.png)
 ![image](http://ogm342j76.bkt.clouddn.com/image/ppt/20161115/ppt4.png)
 基本操作要点：
 1. 首先，你得打开新建一个ppt
