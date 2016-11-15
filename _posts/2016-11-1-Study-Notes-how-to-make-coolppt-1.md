@@ -54,25 +54,32 @@ end.
 **分段、段间距、加粗、字体的选择、配图**
 
 > 通过分段、加粗关键内容、改变字体颜色、改变字体，效果明显
+
 ![image](http://note.youdao.com/yws/public/resource/2b2968494f136cbf1e7a9892b695ea7c/WEBRESOURCE9b5bcfe4451a5a59c9a55bc1de63482c)
 
 > 左右分栏排版、插入图片、段落前面插入形状、关键内容字体设置
+
 ![image](http://note.youdao.com/yws/public/resource/2b2968494f136cbf1e7a9892b695ea7c/WEBRESOURCEbf4880cf392d6b936fb7f108c02c2865)
 
 > 更换了文字背景颜色、增加了图标
+
 ![image](http://note.youdao.com/yws/public/resource/2b2968494f136cbf1e7a9892b695ea7c/WEBRESOURCE53dba6d282e91b3572ca764879b62b27)
 
 > 使用整图背景，文字描述部分的背景设置过滤色
+
 ![image](http://note.youdao.com/yws/public/resource/2b2968494f136cbf1e7a9892b695ea7c/WEBRESOURCEb0a7180a60e533087dafc93c67f2c48b)
 
 > 演讲型ppt，删减了文字，只保留了关键内容
+
 ![image](http://note.youdao.com/yws/public/resource/2b2968494f136cbf1e7a9892b695ea7c/WEBRESOURCE00b77d1976f0bd8ab6d28593c0a85422)
 
 > 两个海报：使用了livebrush字体
+
 ![image](http://note.youdao.com/yws/public/resource/2b2968494f136cbf1e7a9892b695ea7c/WEBRESOURCE12ca85f19322d24361a9fa72a970f306)
 ![image](http://note.youdao.com/yws/public/resource/2b2968494f136cbf1e7a9892b695ea7c/WEBRESOURCE27ff49371370517b6d6acd29e14e1bf5)
 
 > 再看一个对比**before and afte**r的对比
+
 ![imange](http://note.youdao.com/yws/public/resource/2b2968494f136cbf1e7a9892b695ea7c/WEBRESOURCE3c0b480641823cdf823c6e87316d77a2)
 
 # 文字字体的气质
