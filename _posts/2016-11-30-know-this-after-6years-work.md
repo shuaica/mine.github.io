@@ -1,13 +1,13 @@
-	---
-	layout:     post
-	title:      "工作六年后我才懂的这些道理"
-	date:       2016-11-30 12:00:00
-	author:     "Xshuai"
-	tags:
-	    - 职场
-	    - 个人成长
-	catalog: true
-	---
+---
+layout:     post
+title:      "工作六年后我才懂的这些道理"
+date:       2016-11-30 12:00:00
+author:     "Xshuai"
+tags:
+    - 职场
+    - 个人成长
+catalog: true
+---
 
 ## 工作六年后我才懂的这些道理
 -1-
