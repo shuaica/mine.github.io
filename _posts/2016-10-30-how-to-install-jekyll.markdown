@@ -37,7 +37,6 @@ catalog: true
 - 2.执行以下命令
 
 ```ruby dk.rb init
-
 ruby dk.rb install``` 
 
 > ruby dk.rb install 居然失败了，多尝试几次，不知所以然
