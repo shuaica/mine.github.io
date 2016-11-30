@@ -36,8 +36,8 @@ catalog: true
 - 1.cd 进入C:\devkit目录
 - 2.执行以下命令
 
-```ruby dk.rb init
-ruby dk.rb install``` 
+``` 1. ruby dk.rb init
+	2. ruby dk.rb install``` 
 
 > ruby dk.rb install 居然失败了，多尝试几次，不知所以然
 
