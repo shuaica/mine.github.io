@@ -36,9 +36,9 @@ catalog: true
 - 1.cd 进入C:\devkit目录
 - 2.执行以下命令
 
-`ruby dk.rb init
+```ruby dk.rb init
 
-ruby dk.rb install` 
+ruby dk.rb install``` 
 
 > ruby dk.rb install 居然失败了，多尝试几次，不知所以然
 
@@ -62,6 +62,7 @@ ruby dk.rb install`
 - 检查下
 
 ` gem sources -l` 
+
 出现https://gems.ruby-china.org
 请确保只有 gems.ruby-china.org
 
