@@ -51,9 +51,9 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: nicexj
+#duoshuo_username: nicexj
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+#duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
 
@@ -63,7 +63,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 # ba_track_id: 'ad3f25ec7fabdd0125d30e80e2c3b9c0'
 
 # Google Analytics
-ga_track_id: 'UA-86239910-1'            # Format: UA-xxxxxx-xx
+#ga_track_id: 'UA-86239910-1'            # Format: UA-xxxxxx-xx
 #ga_domain: nicexj.com
 
 
